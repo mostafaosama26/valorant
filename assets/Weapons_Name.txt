@@ -1,0 +1,19 @@
+Melee, Melee
+Classic, Sidearm
+Shorty, Sidearm
+Frenzy,Sidearm
+Ghost, Sidearm
+Sheriff, Sidearm
+Stinger, Smg
+Spectre, Smg
+Bucky, Shotgun
+Judge, Shotgun
+Bulldog, Rifle
+Guardian, Rifle
+Vandal, Rifle
+Phantom, Rifle
+Marshal, Sniper
+Outlaw, Sniper
+Operator, Sniper
+Ares, Heavy
+Odin, Heavy
